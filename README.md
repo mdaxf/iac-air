@@ -338,7 +338,6 @@ For support and questions:
 ## 🗺️ Roadmap
 
 ### Version 1.1
-- [ ] Advanced visualization options
 - [ ] Scheduled reports and alerts
 - [ ] Advanced RBAC with field-level permissions
 - [ ] Multi-language support
@@ -347,10 +346,8 @@ For support and questions:
 - [ ] Real-time streaming data support
 - [ ] Advanced analytics and ML insights
 - [ ] Custom dashboard builder
-- [ ] API rate limiting and quotas
 
 ### Version 2.0
-- [ ] Plugin system for custom connectors
 - [ ] Advanced query optimization
 - [ ] Distributed vector search
 - [ ] Enterprise SSO integration
