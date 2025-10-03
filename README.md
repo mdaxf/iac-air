@@ -13,7 +13,7 @@ A comprehensive AI-powered data analytics platform that enables natural language
 
 ## 🎯 Features
 
-http://www.iacf.us/wp-content/uploads/2025/10/AI-Assist-BI-Auto-execution-Made-with-Clipchamp_1759512471477.mp4
+[Watch Demo](http://www.iacf.us/wp-content/uploads/2025/10/AI-Assist-BI-Auto-execution-Made-with-Clipchamp_1759512471477.mp4)
 
 ### Core Capabilities
 - 🤖 **Natural Language Queries**: Ask questions about your data in plain English
@@ -23,7 +23,7 @@ http://www.iacf.us/wp-content/uploads/2025/10/AI-Assist-BI-Auto-execution-Made-w
 - 🔐 **SQL Safety**: Built-in query validation and read-only execution
 - 📱 **Modern UI**: Responsive React interface with real-time chat
 
-http://www.iacf.us/wp-content/uploads/2025/10/Untitled-video-Made-with-Clipchamp-9.mp4
+[Watch Demo](http://www.iacf.us/wp-content/uploads/2025/10/Untitled-video-Made-with-Clipchamp-9.mp4)
 
 ### Enterprise Features
 - 🏢 **Multi-Tenant Support**: Isolated data access by tenant
