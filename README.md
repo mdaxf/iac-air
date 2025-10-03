@@ -2,6 +2,10 @@
 
 A comprehensive AI-powered data analytics platform that enables natural language queries across multiple enterprise data sources using vector search and large language models.
 
+
+https://github.com/user-attachments/assets/8b316544-4291-4bd2-8a21-269c52a5c61a
+
+
 ## 🏗️ Architecture
 
 - **Backend**: Python FastAPI with PostgreSQL + pgvector for vector storage
@@ -13,7 +17,7 @@ A comprehensive AI-powered data analytics platform that enables natural language
 
 ## 🎯 Features
 
-[Watch the auto generate report per the voice & input text Demo](http://www.iacf.us/wp-content/uploads/2025/10/AI-Assist-BI-Auto-execution-Made-with-Clipchamp_1759512471477.mp4)
+https://github.com/user-attachments/assets/fc3e4283-f657-4054-b33d-dc206f24cd01
 
 ### Core Capabilities
 - 🤖 **Natural Language Queries**: Ask questions about your data in plain English
@@ -23,7 +27,6 @@ A comprehensive AI-powered data analytics platform that enables natural language
 - 🔐 **SQL Safety**: Built-in query validation and read-only execution
 - 📱 **Modern UI**: Responsive React interface with real-time chat
 
-[Watch the advacne features: user can validate and update the generated query before generate report Demo](http://www.iacf.us/wp-content/uploads/2025/10/Untitled-video-Made-with-Clipchamp-9.mp4)
 
 ### Enterprise Features
 - 🏢 **Multi-Tenant Support**: Isolated data access by tenant
